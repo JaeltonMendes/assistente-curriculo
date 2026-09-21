@@ -1,0 +1,76 @@
+Meu nome é Jaelton Mendes. Sou Analista de Dados, moro em São Paulo (SP) e atuo no
+ecossistema de dados desde 2022, na intersecção entre tecnologia e estratégia de negócio.
+O que eu faço, na prática, é traduzir volume de dados em inteligência operacional — para
+que a decisão seja tomada com evidência e não com intuição.
+
+## Onde estou hoje
+Desde dezembro de 2025 sou Analista de Dados na AFIP, atuando com BI e engenharia de
+dados. Desenvolvo e mantenho aplicações em Qlik Sense / Qlik Cloud para supply chain,
+gestão de pessoas e controladoria, e conduzo a migração de painéis de Power BI para Qlik,
+incluindo a reconstrução do modelo de dados e a padronização visual entre as aplicações.
+Trabalho com dados de ERP modelados em Snowflake.
+
+É uma inversão curiosa da minha experiência anterior: no Grupo Trigo eu migrei de Qlik
+para Power BI, e hoje faço o caminho oposto. Isso me deu uma visão bem concreta das forças
+e limitações de cada ferramenta, em vez de preferência por marca.
+
+## Grupo Trigo (out/2022 a nov/2025) — Assistente de Produto de Dados
+Foram três anos e dois meses construindo produtos de dados para um grupo com várias
+marcas: Spoleto, China in Box, Gendai, Koni, Lebonton, Gurumê, 2V Deli & Conveniência,
+Pizzaria Spoleto e Asa Açaí.
+
+- Entreguei mais de 10 painéis para áreas estratégicas: Vendas, Marketing, Finanças,
+  Jurídico, Logística, Suprimentos, CX, Expansão, E-commerce e Consultoria.
+- Reduzi em torno de 20% o custo mensal com licenças ao adotar o Power BI Embedded.
+- Otimizei modelos de dados que dobraram o período histórico disponível para análise.
+- Substituí rotinas manuais de Excel por fluxos automatizados no Power BI Service,
+  centralizei ingestões e eliminei ETLs duplicados entre áreas.
+- Implementei padrões de governança — documentação, nomenclatura, organização de pastas
+  e separação de ambientes — o que encurtou bastante o ciclo de manutenção.
+- Participei da modernização da stack: migração de Qlik Sense para Power BI e de SQL
+  Server para Databricks.
+
+## Antes dos dados
+MotorFort (abr/2021 a out/2022), como Assistente Administrativo: relatórios financeiros de
+controle de carteira, acompanhamento de inadimplência e faturamento, conciliação bancária
+e fluxo de caixa.
+
+International Meal Company (mai/2015 a abr/2020), cinco anos. Comecei como Auxiliar
+Administrativo, usando SAP nos módulos MM, PP e SD — requisição de compras, ordens de
+produção, ordens de venda, emissão de notas — e elaborando relatórios de produção. Terminei
+como Líder de Operações, definindo e monitorando SLAs e KPIs da cadeia logística, fazendo
+ETL sobre extrações do SAP e liderando o time como ponto focal da operação.
+
+Essa origem em operação e finanças é o que me faz perguntar "essa métrica vai mudar qual
+decisão?" antes de abrir a ferramenta. Entendo o processo por trás do número porque já
+executei o processo.
+
+## Formação
+- MBA em Data Science & Analytics — USP (out/2021 a jan/2024)
+- Tecnologia em Gestão Empresarial — Fatec Zona Sul (fev/2018 a dez/2020)
+- Intercâmbio em Sistemas de Información Gerencial — Universidad ECOTEC, Equador (2020)
+
+## Certificações
+- Google Data Analytics Professional Certificate
+- Academy Accreditation — Databricks Fundamentals
+- Applied Data Science Lab
+
+## Stack
+Visualização e UI/UX: Power BI, Qlik Sense, Figma para prototipagem.
+Linguagens e plataformas: SQL, Python, Snowflake, Databricks, DBeaver.
+Também uso Claude Code e Claude Cowork no dia a dia de desenvolvimento.
+
+## Idiomas
+Português nativo. Inglês e espanhol em nível profissional limitado — leio documentação
+técnica sem dificuldade e me viro em conversas de trabalho.
+
+## Como penso sobre o trabalho
+Acredito que dado só tem valor quando gera ação. Painel bonito que ninguém abre na segunda
+de manhã é custo, não entrega. Gosto de trabalhar perto da área de negócio, entender a
+pergunta antes de escolher a visualização, e deixar o que construo documentado para que
+outra pessoa consiga manter.
+
+## Contato
+E-mail: jaelton.mendez@hotmail.com
+LinkedIn: linkedin.com/in/jaeltonmendes
+Portfólio: jaeltonmendes.com
